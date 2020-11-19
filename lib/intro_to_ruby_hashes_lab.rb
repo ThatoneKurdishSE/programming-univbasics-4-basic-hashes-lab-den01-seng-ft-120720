@@ -2,7 +2,7 @@ def new_hash
   Hash.new
 end
 def my_hash
-  
+  my_hash{:name="raz"}
 end
 
 def pioneer
