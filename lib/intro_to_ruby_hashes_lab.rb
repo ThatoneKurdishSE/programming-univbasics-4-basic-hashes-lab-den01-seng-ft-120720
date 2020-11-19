@@ -5,8 +5,8 @@ def my_hash
   my_hash= {name:"raz"}
 end
 def pioneer
- pioneer={:name='Grace Hopper'}
+ pioneer={:name=>'Grace Hopper'}
 end
 def id_hash_generator(number)
-hash={:age=
+hash={:age=>32}
 end
