@@ -8,5 +8,5 @@ def pioneer
  pioneer={:name=>'Grace Hopper'}
 end
 def id_hash_generator(number)
-hash={:age=>[32]}
+hash={id: number}
 end
